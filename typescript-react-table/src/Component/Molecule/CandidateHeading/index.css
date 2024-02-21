@@ -1,0 +1,9 @@
+.mainHeading{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.inputwithicon{
+    margin-top: 1rem;
+}

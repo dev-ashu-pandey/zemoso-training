@@ -1,0 +1,15 @@
+.btns{
+    border-radius: .41rem;
+    min-width: 3rem;
+    height: 2rem;
+    background-color: white;
+}
+.blueBackground{
+    background-color: blue;
+    color: azure;
+}
+.medium{
+    font-size: medium;
+}
+.large{font-size: large;}
+.small{font-size: x-small;}

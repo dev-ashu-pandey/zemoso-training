@@ -1,0 +1,55 @@
+
+Q
+!src/dip/voilation/CreditCard.java,d\c\dc1d168a50ec35491f82ae75eb6ead414f84a140
+P
+ src/dip/voilation/DebitCard.java,2\0\20545d230321ccf6a827a63b9c00ce6430dd0b8a
+S
+#src/dip/voilation/ShoppingMall.java,a\e\aea7c17695f9e8e191675f16fc288a9f6a35afe4
+P
+ src/dip/solution/CreditCard.java,f\8\f8b3c18869694a1f0dac58050d78860249d38bce
+O
+src/dip/solution/DebitCard.java,8\f\8f072f4a7094c18e1cac0fdd57a567bf1c25f1c0
+R
+"src/dip/solution/ShoppingMall.java,e\d\ed9ffe0cc2f420beac3750cd96b414afc443e762
+R
+"src/srp/voilation/BankService.java,0\d\0deaa65b13877974e7abd9f003dbf23acaf46f12
+Q
+!src/srp/solution/BankService.java,e\d\edc87489a3a5d4506fd3516873ab480da9a0c7e3
+T
+$src/srp/solution/PrinterService.java,e\a\ea337c3ee8cedffeaa23ec705beb33f924bbb88e
+Y
+)src/srp/solution/NotificationService.java,5\4\546ab92a1e7a72e1e818eb070c66f3489a159ef6
+Q
+!src/srp/solution/LoanService.java,8\7\87c45f01bc492864cb983d51811ede8e27778797
+Y
+)src/ocp/voilation/NotficationService.java,8\a\8a453c510f5730682cc6564f8b077a0422cff2a3
+^
+.src/ocp/solution/EmailNotificationService.java,9\6\9625f8eebaa2545405b5f4f42b98d37c8d39d51b
+_
+/src/ocp/solution/MobileNotificationService.java,a\1\a154b90e867083e6a1d60b1cc7afcce5bd91ebf6
+Y
+)src/ocp/solution/Notificationservice.java,0\e\0e18f9d0801ea866a2fe61ca4bd859b124bcc724
+a
+1src/ocp/solution/WhatsAppNotificationService.java,8\b\8b9ce4705e23ad60bbd37d7b6f2f23d7e35f274b
+O
+src/lsp/voilation/Facebook.java,8\3\83c804cd6d76ab2d44181e5425b1832d6ab7b893
+P
+ src/lsp/voilation/Instagram.java,d\4\d4c6c37deccdb88a59a4ca869edd6030769c3fbb
+K
+src/lsp/voilation/Main.java,2\b\2b7dd6fa931ca39f206363c6df3509c8fbf7fc49
+R
+"src/lsp/voilation/SocialMedia.java,b\8\b819d768d50dda84eb981a1bfed3d4bbd885b57b
+O
+src/lsp/voilation/Whatsapp.java,c\9\c9d039df6cfe2bbf51cf430ed87c5f0825c33eac
+U
+%src/isp/solution/CashBackManager.java,e\6\e6aa6f4c9874500055ed21659957997d0b541e94
+O
+src/isp/solution/GooglePay.java,8\a\8ade6ee40a77c122faa0a37019e8559e6b081859
+M
+src/isp/solution/Phonepe.java,2\b\2b6b2e9d76b1b004d26c9afd7d4814df23de17b3
+K
+src/isp/solution/Paytm.java,d\2\d26e5c250b6c89a5827f2e156144be5b57712146
+Q
+!src/isp/solution/UPIPayments.java,4\6\46ea45607484f12c1948777386177755082f17f1
+N
+src/dip/solution/BankCard.java,9\e\9e89d5d98518a319c065e51e6ef6b9deb79d7503
