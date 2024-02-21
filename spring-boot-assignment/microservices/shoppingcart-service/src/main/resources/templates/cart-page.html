@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" th:href="@{/css/demo.css}"/>
+    <title>Cart Page</title>
+</head>
+<body>
+<h1>Cart Page</h1>
+<div th:each="product : ${products}" class="card">
+    <p>Name: <span th:text="${product.itemName}"></span></p>
+    <p>Quantity: <span th:text="${product.totalItems}"></span></p>
+    <p>Price: <span th:text="${product.totalCost}"></span></p>
+    <p class="form">
+    <form th:action="@{/shoppingCart/remove/{cartId}(cartId=${product.cartId})}" method="post">
+        <input type="hidden" name="_method" value="post" />
+        <button type="submit" class="butn button3">Remove</button>
+        <button type="submit" class="butn">Buy</button>
+    </form>
+    </p>
+</div>
+
+<div class="card footer">
+    <div><span>Total Sum:</span> <span th:text="${totalSum}"></span></div>
+    <button type="submit" class="butn">Buy</button>
+</div>
+
+<div>
+    <a href="http://localhost:8089/products/list" target="_self" class="btn btn-primary btn-add">Back to Shopping</a>
+</div>
+
+</body>
+</html>

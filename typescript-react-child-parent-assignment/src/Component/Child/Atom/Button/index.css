@@ -1,0 +1,16 @@
+.btn{
+    color: aliceblue;
+    background-color: aqua;
+    border-radius: 5px;
+    max-width: auto;
+    width: 95%;
+    padding: 0.5rem 5rem;
+    cursor: pointer;
+}
+.primary{background-color: rgb(58, 58, 207);}
+.secondary{background-color: whitesmoke; color: black;}
+.medium{
+    font-size: medium;
+}
+.large{font-size: large;}
+.small{font-size: x-small;}
